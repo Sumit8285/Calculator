@@ -1,0 +1,6 @@
+C:\Users\SORABH GULIA\source\repos\calculatorpro\calculatorpro\Debug\calculatorpro.vcxproj.AssemblyReference.cache
+C:\Users\SORABH GULIA\source\repos\calculatorpro\calculatorpro\Debug\calculatorpro.MyForm1.resources
+C:\Users\SORABH GULIA\source\repos\calculatorpro\calculatorpro\Debug\calculatorpro.vcxproj.GenerateResource.cache
+D:\code\c code\calculatorpro\calculatorpro\Debug\calculatorpro.vcxproj.AssemblyReference.cache
+D:\code\c code\calculatorpro\calculatorpro\Debug\calculatorpro.MyForm1.resources
+D:\code\c code\calculatorpro\calculatorpro\Debug\calculatorpro.vcxproj.GenerateResource.cache

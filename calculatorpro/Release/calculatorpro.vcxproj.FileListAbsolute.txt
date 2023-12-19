@@ -1,0 +1,3 @@
+D:\code\c code\calculatorpro\calculatorpro\Release\calculatorpro.vcxproj.AssemblyReference.cache
+D:\code\c code\calculatorpro\calculatorpro\Release\calculatorpro.MyForm1.resources
+D:\code\c code\calculatorpro\calculatorpro\Release\calculatorpro.vcxproj.GenerateResource.cache
